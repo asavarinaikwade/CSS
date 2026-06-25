@@ -1,0 +1,29 @@
+/* Universal selector */     
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Element selector */
+p{
+    column-rule-color: rgb(0, 98, 255);
+}
+
+/* ID selector */
+#header{
+    backgraund-color: rgb(0, 98, 255);
+    padding: 0cap;
+}
+
+/* class selector */
+
+.box{
+    border: 0cap blueviolet;
+    margin-bottom: 0cap;
+    padding:0cap
+}
+
+/* group selector */
+h1,p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
